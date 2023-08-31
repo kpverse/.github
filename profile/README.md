@@ -1,1 +1,1 @@
-[![](https://cdn.jsdelivr.net/gh/kpverse/.github/profile/welcome-to-the-kpverse.svg)](https://kpverse.in/ "KPVERSE")
+[![](https://raw.githubusercontent.com/kpverse/.github/main/profile/welcome-to-the-kpverse.svg)](https://kpverse.in/ "KPVERSE")
